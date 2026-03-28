@@ -1,1 +1,1 @@
-# This is 'hello.py' file for master.
+print("Hello World!")
