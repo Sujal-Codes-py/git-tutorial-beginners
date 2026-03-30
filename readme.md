@@ -7,3 +7,4 @@ The best ways to do something:
 - Sleep 
 - Repeat
 
+Thank You for visiting!
