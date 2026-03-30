@@ -8,3 +8,6 @@ The best ways to do something:
 - Repeat
 
 Thank You for visiting!
+
+# Summary
+This repo is awesome.
